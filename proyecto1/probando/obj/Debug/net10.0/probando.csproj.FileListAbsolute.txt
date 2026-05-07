@@ -1,0 +1,15 @@
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/bin/Debug/net10.0/probando
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/bin/Debug/net10.0/probando.deps.json
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/bin/Debug/net10.0/probando.runtimeconfig.json
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/bin/Debug/net10.0/probando.dll
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/bin/Debug/net10.0/probando.pdb
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.AssemblyInfoInputs.cache
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.AssemblyInfo.cs
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.sourcelink.json
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.dll
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/refint/probando.dll
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.pdb
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/probando.genruntimeconfig.cache
+/workspaces/Identificacion-Plantas-Medicinales/proyecto1/probando/obj/Debug/net10.0/ref/probando.dll
