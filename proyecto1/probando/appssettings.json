@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=PlantasMedicinales;User Id=sa;Password=YourPassword123!;Encrypt=false;TrustServerCertificate=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
